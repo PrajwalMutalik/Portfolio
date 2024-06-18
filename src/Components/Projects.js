@@ -7,8 +7,8 @@ const Projects = () => {
     <section id="projects">
       <h2>Projects and programming</h2>
       <div className="project-card">
-        <h3>Wheather App</h3>
-        <p>A frontend project that has an amazing UI integrated with APIs for a live wheather forecast</p>
+        <h3>Weather App</h3>
+        <p>A frontend project that has an amazing UI integrated with APIs for a live weather forecast</p>
         <a href='https://github.com/PrajwalMutalik/Weather-App' style={{color:"yellow"}}> Project Link</a>
       </div>
       <div className="project-card">
