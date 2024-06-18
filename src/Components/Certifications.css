@@ -1,0 +1,39 @@
+/* src/components/Certifications.css */
+#certifications {
+    background: #1c1c1c;
+    color: #fff;
+    padding: 4rem 2rem;
+    text-align: center;
+  }
+  
+  #certifications h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    color: #ff9800;
+  }
+  
+  .certification-card {
+    background: #2a2a2a;
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  .certification-card h3 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+    color: #ff9800;
+  }
+  
+  .certification-card p {
+    font-size: 1.1rem;
+    color: #ccc;
+  }
+  .pern-stack{
+    width: 450px;
+    height: 300px;
+  }
+  

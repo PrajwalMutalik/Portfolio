@@ -1,0 +1,26 @@
+/* src/components/Resume.css */
+#resume {
+    background: #1c1c1c;
+    color: #fff;
+    padding: 4rem 2rem;
+    text-align: center;
+  }
+  
+  #resume h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    color: #ff9800;
+  }
+  
+  .resume-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .resume-content iframe {
+    width: 100%;
+    height: 600px;
+    border: none;
+    border-radius: 8px;
+  }
+  
